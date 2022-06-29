@@ -3,3 +3,4 @@
 *.swo
 vim_swap/*
 !.gitkeep
+.netrwhist
