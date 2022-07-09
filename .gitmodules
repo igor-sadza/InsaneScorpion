@@ -4,3 +4,6 @@
 [submodule "bundle/taboo"]
 	path = bundle/taboo
 	url = https://github.com/gcmt/taboo.vim
+[submodule "bundle/vim-boxdraw"]
+	path = bundle/vim-boxdraw
+	url = https://github.com/gyim/vim-boxdraw

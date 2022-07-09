@@ -70,3 +70,6 @@ autocmd WinLeave * setlocal signcolumn=no
 "If you want to always change pwd while browsing around with netrw you could use:
 "let g:netrw_keepdir = 0
 let g:netrw_keepdir= 1
+
+"Allow virtualedit 
+set virtualedit+=all
