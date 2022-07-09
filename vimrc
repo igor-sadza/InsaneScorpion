@@ -73,3 +73,5 @@ let g:netrw_keepdir= 1
 
 "Allow virtualedit 
 set virtualedit+=all
+
+set nocompatible
